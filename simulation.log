@@ -1,0 +1,4 @@
+VCD info: dumpfile uart.vcd opened for output.
+Nhan thanh cong: a5
+LOI KHUNG (Frame Error)
+tb_uart_rx.v:63: $finish called at 3970000 (1ps)
